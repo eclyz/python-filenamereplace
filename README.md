@@ -1,4 +1,4 @@
 # python-filenamereplace
 Python Filename Replace
 
-Change file names using loops
+Replace file names using loops
